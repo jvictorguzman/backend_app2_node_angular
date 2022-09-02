@@ -67,3 +67,7 @@ git remote add origin https://github.com/jvictorguzman/backend_app2_node_angular
 ```
 git add .
 ```
+## Para agregar o registrar los cambios agregamos un mensaje (commit) al head
+```
+git commit -m "mensaje"
+```
